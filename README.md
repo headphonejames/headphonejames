@@ -1,4 +1,6 @@
-### Hi there 👋
+### Headphone James
+
+![Headphone James Img](img/headphone-logo.png)
 
 <!--
 **headphonejames/headphonejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
