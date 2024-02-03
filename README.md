@@ -9,8 +9,7 @@
 
 <p align="center">
 <a href="https://www.regularjames.com/">
-    <img alt="Professional Website" title="Visit My Website" src="https://img.shields.io/badge/Professional%20Website-34D399?style=for-the-badge&logo=YourLogo&logoColor=white" />
-</a>
+    <img alt="Professional Website" title="Visit My Website" src="https://img.shields.io/badge/Professional%20Website-34D399?style=for-the-badge&logo=YourLogo&logoColor=white" /></a>
 &#8287;&#8287;&#8287;&#8287;
 <a href="https://www.headphonejames.com/"><img alt="Personal Website" title="Visit My Website" src="https://img.shields.io/badge/Personal%20Website-6f42c1?style=for-the-badge&logo=YourLogo&logoColor=white" /></a>
 &#8287;&#8287;&#8287;&#8287;
@@ -20,8 +19,7 @@
 <img alt="Youtube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 &#8287;&#8287;&#8287;&#8287;
 <a href="https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r">
-<img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
+<img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 &#8287;&#8287;&#8287;&#8287;
 <a href="https://www.facebook.com/headphonejames/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 &#8287;&#8287;&#8287;&#8287;
