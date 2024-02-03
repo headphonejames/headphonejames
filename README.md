@@ -12,8 +12,7 @@
     <img alt="Professional Website" title="Visit My Website" src="https://img.shields.io/badge/Professional%20Website-34D399?style=for-the-badge&logo=YourLogo&logoColor=white" />
 </a>
 &#8287;&#8287;&#8287;&#8287;
-<a href="https://www.headphonejames.com/"><img alt="Personal Website" title="Visit My Website" src="https://img.shields.io/badge/Personal%20Website-6f42c1?style=for-the-badge&logo=YourLogo&logoColor=white" />
-</a>
+<a href="https://www.headphonejames.com/"><img alt="Personal Website" title="Visit My Website" src="https://img.shields.io/badge/Personal%20Website-6f42c1?style=for-the-badge&logo=YourLogo&logoColor=white" /></a>
 &#8287;&#8287;&#8287;&#8287;
 <a href="https://www.linkedin.com/in/headphonejames/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 &#8287;&#8287;&#8287;&#8287;
