@@ -11,6 +11,7 @@
 <a href="https://www.regularjames.com/">
     <img alt="Professional Website" title="Visit My Website" src="https://img.shields.io/badge/Professional%20Website-34D399?style=for-the-badge&logo=YourLogo&logoColor=white" />
 </a>
+&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.headphonejames.com/">
     <img alt="Personal Website" title="Visit My Website" src="https://img.shields.io/badge/Personal%20Website-6f42c1?style=for-the-badge&logo=YourLogo&logoColor=white" />
 </a>
